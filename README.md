@@ -1,2 +1,0 @@
-# GeneralScan
-swift
